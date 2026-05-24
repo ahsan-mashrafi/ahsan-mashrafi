@@ -1,9 +1,11 @@
 <div align="center">
+  <img src="https://github.com/ahsan-mashrafi/ahsan-mashrafi/blob/main/profile.jpg" alt="Ahsan Mashrafi" width="180" height="180" style="border-radius: 50%; border: 4px solid #22C55E;"/>
+  
   <h1>Hi there, I'm Ahsan Mashrafi 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&duration=2800&pause=800&color=22C55E&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Training;Machine+Learning+Enthusiast;Building+with+LLMs" alt="Typing SVG" />
   
-  <p><strong>Learning. Building. Getting better every day.</strong></p>
+  <p><strong>Learning. Building. Leveling up every single day.</strong></p>
 </div>
 
 ---
@@ -11,12 +13,12 @@
 ### 👨‍💻 About Me
 
 - **Name:** Ahsan Mashrafi
-- **Focus:** Artificial Intelligence, Machine Learning & Large Language Models
-- **Mindset:** Just learning, improving every single day ✨
+- **Passion:** Artificial Intelligence, Machine Learning & Large Language Models
+- **Current Status:** Self-taught AI/ML learner on a consistent journey ✨
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -24,29 +26,31 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
 </div>
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 Currently Building & Learning
 
-- Building hands-on AI & ML projects
-- Learning about LLMs, RAG, and AI Agents
-- Documenting my learning journey
+- Large Language Models & Prompt Engineering
+- RAG Systems & AI Agents
+- Fine-tuning open-source models
+- Building practical AI projects
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahsan-mashrafi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-mashrafi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ahsan-mashrafi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Stats"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsan-mashrafi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages"/>
 </div>
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect With Me
 
 <div align="center">
 
@@ -60,7 +64,7 @@
 ---
 
 <div align="center">
-  <strong>"The only way to learn is by doing. So I build, I break, I learn, and I repeat."</strong>
+  <strong>"Building in public. Learning in public. Growing in public."</strong>
 </div>
 
 ---
