@@ -1,7 +1,6 @@
-## Hi there 👋
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&height=700&lines=Hi%2C+I'm+Ahsan+Mashrafi;AI+%2F+ML+%2F+LLM+Enthusiast;Getting+better+every+single+day...🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahsan+Mashrafi;AI+%2F+ML+%2F+LLM+Enthusiast;Getting+better+every+single+day...🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -33,11 +32,7 @@ Here are the tools, libraries, and languages I am mastering along my journey:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahsan-mashrafi&show_icons=true&theme=tokyonight&count_private=true" alt="Ahsan's GitHub Stats" />
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mocavers/mocavers/main/images/line_neon.gif" width="100%">
-</p>
